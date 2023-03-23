@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BinSegBstrap"]
+	path = BinSegBstrap
+	url = https://github.com/cran/BinSegBstrap
+	shallow = true
+	registered = true
+[submodule "clampSeg"]
+	path = clampSeg
+	url = https://github.com/cran/clampSeg
+	shallow = true
+	registered = true
+[submodule "crossvalidationCP"]
+	path = crossvalidationCP
+	url = https://github.com/cran/crossvalidationCP
+	shallow = true
+	registered = true
+[submodule "lowpassFilter"]
+	path = lowpassFilter
+	url = https://github.com/cran/lowpassFilter
+	shallow = true
+	registered = true
+[submodule "stepR"]
+	path = stepR
+	url = https://github.com/cran/stepR
+	shallow = true
+	registered = true
