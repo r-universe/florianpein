@@ -11,3 +11,6 @@
 [submodule "lowpassFilter"]
 	path = lowpassFilter
 	url = https://github.com/cran/lowpassFilter
+[submodule "stepR"]
+	path = stepR
+	url = https://github.com/cran/stepR
