@@ -5,6 +5,9 @@
 [submodule "BinSegBstrap"]
 	path = BinSegBstrap
 	url = https://github.com/cran/BinSegBstrap
+[submodule "PCpluS"]
+	path = PCpluS
+	url = https://github.com/cran/PCpluS
 [submodule "crossvalidationCP"]
 	path = crossvalidationCP
 	url = https://github.com/cran/crossvalidationCP
