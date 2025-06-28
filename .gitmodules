@@ -8,6 +8,9 @@
 [submodule "PCpluS"]
 	path = PCpluS
 	url = https://github.com/cran/PCpluS
+[submodule "clampSeg"]
+	path = clampSeg
+	url = https://github.com/cran/clampSeg
 [submodule "crossvalidationCP"]
 	path = crossvalidationCP
 	url = https://github.com/cran/crossvalidationCP
